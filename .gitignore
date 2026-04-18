@@ -1,0 +1,20 @@
+# Unreal
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+*.sln
+*.VC.db
+*.VC.opendb
+*.suo
+
+# OS
+Thumbs.db
+.DS_Store
+
+
+UpgradeLog.htm
+.vsconfig
