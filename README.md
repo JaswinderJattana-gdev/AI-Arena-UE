@@ -1,4 +1,4 @@
-# Unreal AI Arena Demo
+# AI-Arena-UE
 
 A combat-focused AI prototype built in Unreal Engine 5, demonstrating behavior-driven enemies using Behavior Trees, AI Perception, and modular combat systems.
 
